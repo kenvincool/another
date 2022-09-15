@@ -1,5 +1,5 @@
 {
-    "name": "another",
+    "name": "another2022",
     "description": "Deploy V2ray VLess on Heroku.",
     "keywords": ["VLESS"],
     "env": {
