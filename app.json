@@ -1,13 +1,13 @@
 {
-    "name": "V2Ray VLess",
+    "name": "another",
     "description": "Deploy V2ray VLess on Heroku.",
     "keywords": ["VLESS"],
     "env": {
         "ID": {
             "description": "VLESS ID",
-            "value": "1309c705-61ff-47d3-bab9-67a377e403db"
+            "value": "242361e7-ce3d-41a0-b776-ee8e9e271bb7"
         }
     },
-    "repository": "https://github.com/DanyTPG/heroku-vless",
+    "repository": "https://github.com/kenvincool/another",
     "stack": "container"
 }
